@@ -1,3 +1,3 @@
 FROM tomcat
-MAINTAINER prakash
+MAINTAINER shubham
 COPY /webapp/target/webapp.war /usr/local/tomcat/webapp
